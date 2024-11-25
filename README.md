@@ -12,6 +12,7 @@ This project is a Python application that generates and solves a maze using the 
 ## Requirements
 - Python 3.x
 - Tkinter (typically included with Python)
+- Random
 
 ## How to Run
 1. Install Python 3.x if not already installed.
